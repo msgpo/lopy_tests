@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Project SYSTEM "Project-5.1.dtd">
+<!-- Pymakr project file for project test01 -->
+<!-- Saved: 2017-02-13, 11:00:50 -->
+<!-- Copyright (C) 2017 0.1, 0.1 -->
+<Project version="5.1">
+  <Language>en_US</Language>
+  <Hash>0df98168314ed637ca9383fdb0cf53f83ff0d986</Hash>
+  <ProgLanguage mixed="0">Python3</ProgLanguage>
+  <ProjectType>Qt4</ProjectType>
+  <Description></Description>
+  <Version>0.1</Version>
+  <Author>0.1</Author>
+  <Email>0.1</Email>
+  <Eol index="1"/>
+  <Sources>
+    <Source>boot.py</Source>
+    <Source>loraping.py</Source>
+    <Source>lorapingpong.py</Source>
+    <Source>loratest.py</Source>
+    <Source>main.py</Source>
+    <Source>wifi.py</Source>
+  </Sources>
+  <Forms/>
+  <Translations/>
+  <Resources/>
+  <Interfaces/>
+  <Others>
+    <Other>0.1</Other>
+  </Others>
+  <MainScript>0.1</MainScript>
+  <Vcs>
+    <VcsType>None</VcsType>
+  </Vcs>
+  <FiletypeAssociations>
+    <FiletypeAssociation pattern="*.idl" type="INTERFACES"/>
+    <FiletypeAssociation pattern="*.py" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.py3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.pyw3" type="SOURCES"/>
+    <FiletypeAssociation pattern="*.qm" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.qrc" type="RESOURCES"/>
+    <FiletypeAssociation pattern="*.ts" type="TRANSLATIONS"/>
+    <FiletypeAssociation pattern="*.ui" type="FORMS"/>
+  </FiletypeAssociations>
+</Project>

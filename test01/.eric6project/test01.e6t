@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- Pymakr tasks file for project test01 -->
+<!-- Saved: 2017-02-13, 11:00:50 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{224e0299-c546-498b-b29d-eb7d4cdd2ad4}">
+    <Summary>TODO: clear internal wifi assignment</Summary>
+    <Description></Description>
+    <Created>2017-02-13, 10:11:24</Created>
+    <Resource>
+      <Filename>wifi.py</Filename>
+      <Linenumber>49</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
